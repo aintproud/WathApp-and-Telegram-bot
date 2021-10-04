@@ -1,0 +1,8 @@
+This thing is a selenium WhatsApp new message checker. Program need the
+information of Telegram bot add Telegram id to work. Also to start it you 
+have to scan qr code(there were no way to roundabout it, P.S. I tried!!).
+You can to mute chats by puting their names in the "main.first_dict" and 
+change interval of massage sending for you in Telegram.
+
+Bot walk across chats and if there any new message, it will send it for you
+in Telegram, pretty simple and useful of cource!
